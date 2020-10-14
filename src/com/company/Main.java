@@ -21,7 +21,7 @@ public class Main {
 
         System.out.print("Числа массива:");
         for (int i = 0; i < size_arr; i++) {
-            System.out.print(" " + array[i]); // Выводим на экран, полученный массив
+            System.out.print(" " + array[i]);
         }
         System.out.println();
 
